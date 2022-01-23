@@ -29,6 +29,7 @@ class student:
         print("This is class Method &"+cls.name)
 
 print(student.info())
+print('Testing git command')
 
 
     
